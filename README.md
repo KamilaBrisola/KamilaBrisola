@@ -1,3 +1,5 @@
+![logo](https://github.com/KamilaBrisola/KamilaBrisola/blob/main/senai-logo-3.png)
+
 ## Hi there 👋
 
 
