@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 </br>
   
-[![KamilaBrisola GitHub stats](https://github-readme-stats.vercel.app/api?username=KamilaBrisola&show_icons=true&theme=radical)](https://github.com/KamilaBrisola/github-readme-stats)
+[![KamilaBrisola GitHub stats](https://github-readme-stats.vercel.app/api?username=KamilaBrisola&show_icons=true&theme=merko)](https://github.com/KamilaBrisola/github-readme-stats)
 <div style ="display: inline_block"><br/>
 
 
